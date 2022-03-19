@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 45px;
+    padding-bottom: 130px;
+}
+
+.color-box{
+    height: 180px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 4px;
+}
+
+.text-el{
+    background-color: whitesmoke;
+    font-size: 50px;
+}
+
+button{
+    height: 70px;
+    width: 160px;
+    border-radius: 10px;
+    font-size: x-large;
+    background-color: transparent;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
